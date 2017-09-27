@@ -1,0 +1,468 @@
+﻿month,age,gender,raceethnicity,state,lawenforcementagency,cause,armed,p_income,h_income,county_income
+February,16,Male,Black,AL,Millbrook Police Department,Gunshot,No,28375,51367,54766
+April,27,Male,White,LA,Rapides Parish Sheriff's Office,Gunshot,No,14678,27972,40930
+March,26,Male,White,WI,Kenosha Police Department,Gunshot,No,25286,45365,54930
+March,25,Male,Hispanic/Latino,CA,South Gate Police Department,Gunshot,Firearm,17194,48295,55909
+March,29,Male,White,OH,Kent Police Department,Gunshot,No,33954,68785,49669
+March,29,Male,White,AZ,Phoenix Police Department,Gunshot,No,15523,20833,53596
+March,22,Male,Hispanic/Latino,CA,Bakersfield Police Department,Gunshot,Firearm,25949,58068,48552
+March,35,Male,Hispanic/Latino,CA,Los Angeles Police Department,Gunshot,Non-lethal firearm,25043,66543,55909
+January,44,Male,White,TX,Wise County Sheriff's Department and Texas DPS ,Gunshot,Firearm,16778,30391,38310
+February,31,Male,White,MI,Kentwood Police Department and Wyoming DPS,Gunshot,Other,22005,44553,51667
+April,76,Male,White,CA,Kings County Sheriff's Office,Gunshot,Knife,26916,56065,48133
+May,40,Male,White,CA,Orange County Sheriff's Department,Gunshot,No,51186,117413,75422
+February,,Male,Hispanic/Latino,TX,US Marshals Service,Gunshot,No,27414,53572,53137
+February,31,Male,White,IN,Terre Haute Police Department ,Gunshot,Firearm,25563,44857,40692
+April,23,Male,White,IN,Indianapolis Metropolitan Police Department,Gunshot,Non-lethal firearm,25998,39727,42334
+May,39,Male,Hispanic/Latino,TN,Metro Nashville Police Department,Gunshot,Firearm,20027,25500,47335
+April,25,Female,Black,GA,Atlanta Police Department,Gunshot,Vehicle,23205,56190,56857
+May,54,Male,Hispanic/Latino,VA,Arlington Police Department,Gunshot,Firearm,29881,38125,103208
+March,24,Female,White,CA,San Francisco Police Department,Gunshot,Firearm,41676,61904,75604
+January,57,Male,Black,CA,San Francisco Sheriff's Department,Death in custody,No,37455,111903,88202
+February,21,Male,Hispanic/Latino,CA,San Francisco Police Department,Gunshot,Vehicle,27384,60479,75604
+January,42,Male,Black,NE,Norfolk Police Division,Death in custody,No,23342,54809,46566
+February,21,Male,Hispanic/Latino,KS,Kansas City KS Police Department and Kansas Highway Patrol,Gunshot,Other,22719,32471,39402
+March,36,Male,White,CA,Fontana Police Department,Gunshot,Firearm,18376,39153,54090
+April,26,Male,White,OK,Grady County Sheriff's Department and Chickasha Police Department,Gunshot,Firearm,17695,32034,49637
+March,49,Male,White,OR,Medford Police Department,Gunshot,Firearm,21610,43625,44005
+January,54,Male,White,NH,Derry Police Department,Gunshot,Firearm,32921,61167,77348
+April,26,Male,White,CA,Los Angeles Police Department,Gunshot,Firearm,22441,52344,55909
+March,48,Male,Black,FL,Putnam County Sheriff's Office,Gunshot,Firearm,23926,36844,32497
+January,33,Male,Hispanic/Latino,TX,El Paso Police Department,Gunshot,Firearm,13231,17388,40157
+April,21,Male,Hispanic/Latino,CA,Tehama County Sheriff's Department,Gunshot,Knife,19599,46320,41924
+March,41,Male,Black,MA,Boston Police Department,Gunshot,Firearm,14995,20388,53540
+February,48,Male,Black,TN,Memphis Police Department,Gunshot,Vehicle,22968,37109,46250
+May,36,Male,Black,AL,Huntsville Police Department,Gunshot,Knife,34698,57935,58434
+February,41,Male,Hispanic/Latino,GA,Habersham County Sheriff's Office,Gunshot,Firearm,22085,47196,39306
+May,29,Male,Black,PA,Lancaster Police Department,Gunshot,Knife,21868,42027,56483
+March,27,Male,Black,GA,DeKalb County Sheriff's Department,Gunshot,No,32142,57964,50856
+February,45,Male,White,GA,Douglas Police Department,Gunshot,Firearm,21769,38988,35693
+March,32,Male,Hispanic/Latino,CA,Los Angeles County Sheriff's Department,Gunshot,Firearm,15373,27585,55909
+February,35,Male,Hispanic/Latino,WA,Pasco Police Department,Gunshot,Firearm,16558,28537,55177
+January,36,Male,Black,AR,Union County Sheriff's Office,Gunshot,Firearm,17853,32614,37435
+March,35,Male,Black,GA,Floyd County Sheriff's Office,Taser,Knife,20248,40708,40821
+March,40,Male,Hispanic/Latino,OK,Oklahoma City Police Department,Gunshot,Vehicle,17225,32860,45215
+May,18,Male,White,FL,St Petersburg Police Department,Gunshot,Firearm,26667,46233,45535
+January,34,Female,White,IA,Burlington Police Department,Gunshot,Firearm,15488,26964,42451
+March,39,Male,Hispanic/Latino,CA,Santa Ana Police Department,Gunshot,Knife,19978,47233,75422
+March,21,Male,Hispanic/Latino,TX,Baytown Police Department,Gunshot,Other,18995,30804,53137
+March,62,Male,Black,GA,Atlanta Police Department,Struck by vehicle,No,14256,17545,56857
+February,43,Female,White,NC,Gastonia Police Department,Gunshot,Firearm,18843,30408,42017
+May,44,Male,White,NM,Bernalillo County Sheriff's Department,Gunshot,Firearm,21170,39651,48801
+April,29,Male,White,OK,Oklahoma Department of Wildlife Conservation,Gunshot,Firearm,20901,35022,32556
+March,35,Male,Black,DC,Washington DC Metro Transit Police,Gunshot,Firearm,86023,118194,65830
+February,50,Male,White,FL,Palm Bay Police Department,Gunshot,Knife,22105,39535,48039
+March,18,Male,Black,OH,Cleveland Division of Police,Gunshot,Firearm,14560,19643,43804
+April,25,Male,White,TX,Victoria Police Department,Gunshot,Firearm,27813,59961,50364
+March,31,Male,White,ID,Canyon County Sheriff's Office,Gunshot,Knife,28125,58600,42105
+May,29,Male,Black,CA,Los Angeles Police Department,Gunshot,Firearm,42931,60714,55909
+March,49,Male,White,OR,Eugene Police Department,Gunshot,Firearm,20407,47795,42931
+January,23,Male,,CA,South Gate Police Department,Gunshot,Firearm,18047,43750,55909
+February,45,Male,White,CO,Garfield County Sheriff's Office,Gunshot,Knife,35827,59051,57022
+January,26,Male,Black,CA,Los Angeles County Sheriff's Department,Taser,Firearm,17893,38690,55909
+January,35,Male,White,KS,Saline County Sheriff's Office,Gunshot,Knife,31080,57244,47215
+February,34,Male,White,OR,Clackamas County Sheriff's Office,Gunshot,Non-lethal firearm,25130,58358,64352
+May,46,Male,Asian/Pacific Islander,HI,US Marshals Service,Gunshot,No,35788,62594,72764
+March,29,Male,Black,KY,Elizabethtown Police Department,Gunshot,Knife,28556,58463,48687
+February,39,Male,Black,FL,Coconut Creek Police Department,Taser,Firearm,27031,39561,51251
+March,28,Male,Asian/Pacific Islander,CA,Stockton Police Department and San Joaquin County Sheriff's Office,Gunshot,Knife,11805,15212,53380
+April,51,Male,Hispanic/Latino,AZ,Bisbee Police Department,Gunshot,Knife,20428,36442,45755
+January,67,Male,White,KY,Magoffin County Sheriff's Office and Kentucky State Police,Gunshot,Firearm,12840,25139,26877
+May,53,Male,White,FL,St Johns County Sheriff's Office,Gunshot,Firearm,31274,59167,64876
+May,25,Male,Black,MI,Detroit Police Department,Gunshot,No,14177,24539,41184
+March,30,Male,Black,FL,Brevard County Sheriff's Office,Gunshot,Knife,13805,21000,48039
+April,24,Male,Hispanic/Latino,TX,Houston Police Department,Gunshot,No,16689,24072,53137
+February,35,Male,White,CA,Yuba County Sheriff's Office,Taser,Firearm,14746,28837,44902
+March,43,Male,Black,CA,Los Angeles Police Department,Gunshot,Vehicle,8206,10290,55909
+February,24,Male,White,SC,Greenville County Sheriff's Office,Gunshot,Firearm,22409,42159,49022
+January,29,Male,White,AZ,Clifton Police Department and Greenlee County Sheriff's Office,Gunshot,Firearm,37579,60670,47992
+May,38,Male,Black,KY,Owensboro Police Department and Kentucky State Police,Gunshot,Firearm,33294,70638,46555
+April,31,Male,White,AR,Jonesboro Police Department,Gunshot,No,22080,43259,41393
+March,36,Male,White,OR,Portland Police Department,Gunshot,Other,21049,35978,52511
+March,23,Male,White,GA,Port Wentworth Police Department,Gunshot,Firearm,37721,68136,45794
+April,38,Male,White,VA,Frederick County Sheriff's Office,Gunshot,Firearm,21845,47714,68424
+March,53,Male,White,WV,West Virginia State Police,Gunshot,No,23583,37026,42493
+February,24,Male,White,UT,Provo Police Department,Gunshot,Knife,14816,41866,60196
+January,26,Male,White,TX,Rosenburg Police Department,Gunshot,Firearm,22235,53831,85297
+February,28,Male,Black,MO,Boone County Sheriff's Department,Gunshot,Firearm,21264,36649,48627
+February,34,Female,White,GA,Worth County Sheriff's Office,Gunshot,Knife,21667,54871,32484
+May,28,Male,Black,FL,Jacksonville Police Department,Gunshot,Firearm,22472,40071,48323
+May,40,Male,Black,MD,Montgomery County Police Department,Taser,Firearm,25799,42097,98221
+May,51,Male,Black,NY,New York Police Department,Gunshot,No,21344,34545,46085
+April,44,Male,White,NE,Sidney Police Department,Gunshot,Firearm,30465,51033,51529
+January,25,Male,Hispanic/Latino,TX,Fort Worth Police Department,Gunshot,Firearm,19146,32245,56853
+February,56,Male,White,AZ,Marana Police Department,Gunshot,Knife,38593,69616,45841
+April,37,Male,Hispanic/Latino,WA,Lakewood Police Department,Gunshot,Firearm,21626,38688,59204
+April,58,Male,White,FL,Lake County Sheriff's Office,Gunshot,Firearm,24749,54905,45035
+February,39,Male,White,NE,Omaha Police Department,Gunshot,Firearm,16218,32948,53325
+February,37,Male,Hispanic/Latino,AZ,Pinal County Sheriff's Office,Gunshot,No,22833,40984,50027
+April,35,Male,Black,NJ,New Jersey State Police,Gunshot,Knife,39122,62029,68507
+January,26,Male,Black,MD,Baltimore Police Department,Gunshot,Firearm,11157,21433,41385
+March,47,Male,Black,OK,Oklahoma City Police Department,Taser,Firearm,22857,32886,45215
+April,31,Male,Black,MD,Hagerstown Police Department,Taser,Firearm,12109,16007,55609
+May,60,Male,White,SC,Lancaster County Sheriff's Department,Gunshot,No,22385,41675,42217
+April,32,Male,Black,IL,Rock Island Police Department,Gunshot,No,20610,37215,48702
+January,45,Male,White,ID,Rexburg Police Department,Gunshot,Non-lethal firearm,10987,19672,32059
+February,42,Male,Hispanic/Latino,FL,Lakeland Police Department,Gunshot,Firearm,21474,39108,43113
+May,17,Male,White,CO,Grand Junction Police Department,Gunshot,Firearm,21109,30484,49471
+May,22,Male,Hispanic/Latino,TX,El Paso Police Department,Gunshot,Firearm,18438,31963,40157
+January,33,Male,Hispanic/Latino,CA,Kern County Sheriff's Office,Gunshot,Firearm,12741,23692,48552
+May,18,Male,White,NC,Wake Forest Police Department,Gunshot,No,30061,57174,66006
+April,39,Male,White,MI,Gibraltar Police Department,Taser,Firearm,29488,67636,41184
+February,59,Male,White,PA,Hummelstown Police Department,Gunshot,Firearm,30491,65581,58745
+April,33,Male,White,OK,Warner Police Department,Taser,Firearm,18370,28836,38502
+April,58,Male,White,OH,Mansfield Police Department,Gunshot,Firearm,24348,37992,41835
+May,58,Male,White,NY,Oswego County Sheriff's Department,Gunshot,No,23883,49360,48051
+March,47,Male,White,LA,Louisiana State Troopers,Struck by vehicle,Firearm,15373,21803,25498
+March,41,Male,White,CT,Branford Police Department,Taser,Other,41609,64063,61996
+February,64,Male,White,CA,Los Angeles Police Department,Struck by vehicle,Firearm,21130,55458,55909
+April,45,Male,White,CA,Fountain Valley Police Department,Gunshot,Firearm,19598,56818,75422
+March,53,Female,White,KS,Gardner Police Department,Gunshot,Firearm,33869,67702,74717
+March,24,Male,White,NC,Bladen County Sheriff's Office and Bladenboro Police Department,Gunshot,Knife,16983,25690,30164
+May,48,Male,Black,LA,Jefferson Parish Sheriff's Office,Gunshot,Firearm,23944,42083,48261
+January,29,Male,Black,FL,Lauderhill Police Department,Gunshot,No,20254,29884,51251
+May,40,Male,Hispanic/Latino,NY,New York Police Department,Death in custody,Firearm,15656,26509,34388
+May,34,Male,White,CA,San Diego Police Department,Gunshot,Vehicle,26928,66542,62962
+March,21,Male,Black,NY,Suffolk County Police Department,Gunshot,Firearm,30784,72218,87763
+March,26,Male,White,FL,Volusia County Sheriff's Office,Gunshot,,19921,43413,42457
+February,45,Male,Black,TX,Dallas Police Department,Gunshot,Firearm,14256,23931,49481
+April,25,Male,Black,LA,Jefferson Parish Sheriff's Office,Gunshot,Firearm,18257,25950,48261
+March,17,Male,White,MI,Eaton County Sheriff's Office,Gunshot,Non-lethal firearm,32088,67756,54115
+March,24,Male,Black,CA,Santa Clara Police Department,Gunshot,Other,26846,62664,91702
+January,42,Male,Black,AZ,Scottsdale Police Department,Gunshot,Knife,36099,52038,53596
+February,29,Male,Black,CA,Contra Costa Sheriff's Office,Gunshot,Firearm,22193,45512,78756
+April,42,Male,Black,GA,Lowndes County Sheriff's Office,Gunshot,Knife,19031,34083,37365
+March,30,Male,Black,VA,Culpeper Police Department,Taser,Firearm,28490,46382,64423
+April,29,Male,Black,IN,"Indiana State Police, Tippecanoe County Sheriff's Department",Gunshot,Firearm,21858,40959,51444
+April,39,Male,Black,NY,City of Albany Police Department,Taser,Firearm,14520,20665,59394
+April,63,Male,White,IL,Metropolis Police Department,Gunshot,Non-lethal firearm,25135,51518,43615
+March,49,Male,White,MS,George County Sheriff's Department,Gunshot,Firearm,21837,36319,43958
+April,41,Male,Black,SC,Spartanburg Police Department,Gunshot,Firearm,19755,35453,42919
+January,27,Male,Black,IN,Indianapolis Metropolitan Police Department,Gunshot,Other,20623,36070,42334
+February,30,Male,White,MA,Tewksbury Police Department,Gunshot,No,51071,102399,82090
+April,60,Male,White,TX,San Antonio Police Department,Gunshot,Knife,21342,35099,50112
+March,77,Male,Black,AL,Birmingham Police Department,Gunshot,No,13968,23977,45429
+May,19,Male,,AZ,Yavapai County SheriffÌ_Ì_åÈs Office,Gunshot,No,16415,36818,42987
+March,37,Male,Hispanic/Latino,CA,Ontario Police Department,Gunshot,Firearm,24026,61989,54090
+January,54,Male,Black,MD,Baltimore County Police Department,Gunshot,Firearm,37922,54274,66486
+April,29,Male,Hispanic/Latino,CA,Riverside County Sheriff's Department and California Highway Patrol,Gunshot,Firearm,17632,32708,56529
+May,30,Male,Black,TX,Garland Police Department,Gunshot,No,31009,49973,49481
+May,24,Male,Hispanic/Latino,NJ,Hackensack Police Department,Gunshot,Knife,35008,51051,83794
+March,21,Male,White,AZ,Cottonwood Police Department,Gunshot,Firearm,16415,36818,42987
+April,44,Male,Black,OK,Tulsa County Sheriff's Office,Gunshot,Firearm,16953,34432,48181
+May,40,Male,White,AZ,Eagar Police Department and Apache County Sheriff's Office,Gunshot,Firearm,20644,47821,31476
+April,32,Male,White,OK,Pottawatomie County Sheriff's Office,Gunshot,Knife,31930,60759,42764
+April,22,Male,Hispanic/Latino,TX,El Paso Police Department,Gunshot,Knife,27255,58026,40157
+April,43,Male,White,AZ,Phoenix Police Department,Gunshot,Firearm,19343,27066,53596
+April,52,Male,Hispanic/Latino,CA,San Bernardino County Sheriff's Office,Gunshot,Knife,22177,46944,54090
+February,27,Male,Hispanic/Latino,CA,Santa Ana Police Department,Gunshot,No,16620,41611,75422
+April,34,Male,White,NM,New Mexico State Police,Gunshot,Vehicle,27273,49308,52917
+March,20,Male,White,TX,Onalaska Police Department,Gunshot,No,26675,39113,37855
+March,25,Male,Black,MD,Maryland State Police,Gunshot,Firearm,18976,30844,51092
+April,24,Male,Black,NY,New York Police Department,Gunshot,Knife,37028,63159,46085
+May,20,Male,,CA,Long Beach Police Department,Gunshot,Firearm,31776,65912,55909
+February,46,Male,White,AL,Tallapoosa County Sheriff's Department,Gunshot,Firearm,18363,36694,39130
+February,42,Male,White,CA,San Bernardino County Sheriff's Department,Gunshot,Firearm,23716,49844,54090
+February,43,Male,White,NV,Las Vegas Metro Police (Swat),Gunshot,Firearm,23444,35924,52873
+April,41,Male,Black,TX,Harris County Sheriff's Office,Gunshot,No,30261,81172,53137
+March,59,Male,White,MO,US Marshals Service,Gunshot,No,25030,46007,47015
+April,25,Male,Black,MD,Baltimore Police Department,Death in custody,Firearm,14227,21083,41385
+April,42,Male,White,CA,San Diego Police Department,Gunshot,Firearm,23467,31495,62962
+March,64,Male,White,FL,Tallahassee Police Department,Gunshot,Firearm,21261,28859,46369
+January,22,Male,White,MA,Chatham Police Department,Struck by vehicle,,31641,67059,60526
+May,24,Male,White,OK,Edmond Police Department,Gunshot,Knife,41377,104388,45215
+April,63,Male,White,OK,Oklahoma Highway Patrol,Gunshot,No,18397,34336,36473
+March,56,Male,White,CA,San Diego County Sheriff's Department,Gunshot,No,40529,96094,62962
+March,60,Male,White,IN,Clay County Sheriff's Department,Gunshot,No,22384,42348,46430
+March,54,Male,White,AL,Baldwin County Sheriff's Office,Gunshot,Firearm,23683,48173,50221
+February,37,Male,Black,OK,Oklahoma City Police Department,Gunshot,No,20405,29338,45215
+April,22,Male,White,FL,Santa Rosa County Sheriff's Office,Gunshot,Firearm,27745,60186,57703
+March,39,Male,White,IN,Lake County Sheriff's Department,Taser,Firearm,36727,65074,49035
+April,45,Male,White,FL,Panama City Police Department,Gunshot,Knife,21693,36273,47461
+May,57,Male,White,GA,Putnam County Sheriff's Department,Gunshot,No,20760,44902,44764
+March,42,Male,White,WV,West Virginia State Police,Gunshot,Firearm,26643,40541,31163
+January,41,Male,Black,OH,Columbus Police Department,Gunshot,Firearm,,,50877
+April,19,Male,Hispanic/Latino,CA,Long Beach Police Department,Gunshot,No,17223,30398,55909
+February,26,Male,Black,OK,Oklahoma City Police Department,Gunshot,Knife,14932,25357,45215
+February,34,Male,White,MS,Iuka Police Department,Gunshot,No,18243,30857,32592
+January,69,Male,White,KY,Stanford Police Department,Struck by vehicle,No,16615,17917,33651
+March,64,Female,Asian/Pacific Islander,NJ,Bergen County Prosecutor's Department,Struck by vehicle,No,27432,50625,83794
+February,35,Male,Asian/Pacific Islander,TX,Harris County Attorney's Department,Gunshot,No,21306,41786,53137
+February,40,Male,Black,NC,Tarboro Police Department and Edgecombe Sheriff's Office,Gunshot,No,20836,30588,33960
+January,19,Male,Black,MO,St Louis Metropolitan Police Department,Gunshot,Firearm,14048,18828,34582
+April,27,Male,Hispanic/Latino,IL,Alton Police Department,Gunshot,No,18727,24946,53633
+February,37,Male,Hispanic/Latino,FL,Orlando Police Department,Gunshot,Firearm,17433,29410,47581
+February,17,Male,White,MI,Bay City Police Department,Gunshot,Knife,14504,19097,45376
+March,39,Male,Black,FL,Saint Lucie County Sheriff's Office,Gunshot,Firearm,11338,11378,43413
+February,74,Male,Black,NC,Gastonia Police Department,Gunshot,Firearm,15489,28696,42017
+January,42,Male,White,UT,Salt Lake City Police Department,Gunshot,Firearm,30391,44638,60555
+June,47,Male,White,TX,Palestine Police Department,Gunshot,No,18238,31815,40653
+May,43,Male,White,SC,North Charleston Police Department,Gunshot,Knife,38810,80891,50792
+March,46,Male,White,CO,Moffat County Sheriff's Office and Colorado Parks and Wildlife Law Enforcement,Gunshot,No,39179,74510,53231
+March,44,Male,White,NY,Orleans County Sheriff's Office,Gunshot,Firearm,30489,57747,48502
+March,31,Male,White,TN,Memphis Police Department,Gunshot,Other,22255,40721,46250
+May,47,Male,White,MO,Pettis County Sheriff's Office,Gunshot,Firearm,24705,49649,47223
+March,41,Male,Hispanic/Latino,CA,Napa Police Department,Gunshot,Firearm,41719,90271,70443
+March,43,Male,White,OK,Tulsa Police Department,Struck by vehicle,Vehicle,20213,31169,48181
+May,40,Male,,OR,Medford Police Department,Gunshot,Non-lethal firearm,22947,40781,44005
+May,32,Male,Black,CO,Northglenn Police Department,Gunshot,Firearm,30906,55442,56270
+March,31,Male,Black,LA,US Marshals Service,Gunshot,Vehicle,10219,21964,48506
+March,20,Male,White,WA,US Border Patrol,Gunshot,Firearm,22021,55432,51939
+February,20,Female,Black,NC,Charlotte-Mecklenburg Police Department,Gunshot,Firearm,11184,18457,55444
+April,33,Male,White,FL,Ocala Police Department,Gunshot,No,19808,45125,39453
+April,22,Male,Black,LA,New Orleans Police Department,Gunshot,Other,18029,20556,37146
+February,41,Male,White,NM,New Mexico State Police and US Marshals Service,Gunshot,No,18975,38893,43014
+May,41,Male,Black,NJ,New Jersey State Police,Struck by vehicle,No,37476,93091,83794
+April,32,Male,White,NC,Sampson County Sheriff's Office,Gunshot,Knife,19868,33796,36496
+February,16,Male,White,MD,Baltimore County Police Department,Gunshot,Firearm,25865,38879,66486
+March,29,Male,Black,CA,Ceres Police Department,Gunshot,Knife,28397,53097,49297
+March,42,Male,White,OH,Columbus Division of Police,Gunshot,,22750,42642,50877
+May,29,Male,Black,FL,Fort Lauderdale Police Department,Gunshot,,19032,43496,51251
+March,47,Male,White,CA,Bakersfield Police Department,Gunshot,Firearm,12297,18942,48552
+April,53,Male,Black,VA,Greensville County Sheriff's Office and Virginia State Police,Gunshot,Other,19423,40214,39697
+April,18,Male,Black,IL,Chicago Police Department,Gunshot,No,26314,34771,54548
+March,47,Male,White,KY,Whitley County Sheriff's Department and Kentucky State Police,Death in custody,Firearm,15289,27582,29769
+January,34,Male,White,UT,West Valley City Police Department and Draper Police Police Department,Gunshot,No,30625,68125,60555
+May,36,Male,White,GA,Rockdale County Sheriff's office,Gunshot,Firearm,29063,54146,52579
+March,63,Male,White,HI,Hawaii Police Department,Struck by vehicle,Firearm,36696,70159,51250
+March,36,Male,White,FL,Tampa Bay Police Department [US Marshals Service Task Force],Gunshot,No,35194,77275,49596
+March,27,Male,Black,SC,Johnsonville Police Department and Florence County Sheriff's Department (Swat),Gunshot,Firearm,17493,32639,41910
+February,28,Male,Black,FL,Tallahassee Police Department,Gunshot,Vehicle,19218,38658,46369
+January,33,Male,Black,OH,"Columbus Police Department, Ohio State Highway Patrol",Gunshot,No,16616,33370,50877
+May,32,Male,Black,SC,South Carolina State Law Enforcement Division,Gunshot,No,37967,63750,50792
+February,42,Male,White,PA,Catasauqua Police Department,Gunshot,Knife,26001,46027,54923
+April,31,Male,White,PA,Pennsylvania State Police,Gunshot,Firearm,27355,60940,59492
+January,17,Female,Hispanic/Latino,CO,Denver Police Department,Gunshot,Firearm,32602,54261,50313
+February,28,Female,,AZ,Tucson Police Department,Gunshot,Firearm,20860,37292,42987
+May,24,Male,White,LA,FBI,Gunshot,Firearm,20396,33898,53248
+January,71,Male,,AR,England Police Department,Gunshot,Firearm,18750,31458,52582
+February,51,Male,Black,TX,Waco Police Department,Gunshot,No,21988,33320,41922
+February,28,Male,Hispanic/Latino,AZ,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",Gunshot,Other,23243,35524,53596
+April,53,Male,White,TN,Nashville Metropolitan Police Department,Gunshot,Firearm,48922,135625,47335
+March,54,Male,White,NV,Boulder City Police Department,Gunshot,No,23940,45979,52873
+January,45,Male,White,MS,Mississippi Gaming Commission,Gunshot,Firearm,22681,32899,31446
+May,33,Male,White,FL,Sarasota Police Department,,Other,27385,50852,49052
+January,48,Male,White,MT,Billings Police Department,Gunshot,Firearm,24076,38365,51342
+January,34,Male,White,NM,Albuquerque Police Department,Gunshot,Firearm,34326,54855,48801
+January,23,Male,Hispanic/Latino,KS,Wichita Police Department,Gunshot,Knife,22016,36701,49865
+February,35,Male,White,CA,Riverside County Sheriff's Department,Gunshot,Firearm,23378,43460,56529
+February,33,Male,Hispanic/Latino,AK,Anchorage Police Department,Gunshot,Knife,32902,51445,77454
+January,32,Male,White,AZ,Maricopa Police Department,Gunshot,Firearm,45333,83438,50027
+May,52,Male,White,OH,Summit County Sheriff's Office,Gunshot,Firearm,32466,63477,49669
+April,30,Male,White,NY,New York Police Department,Gunshot,No,16670,25894,57001
+February,23,Male,White,CA,San Bernardino Police Department,Gunshot,Firearm,26030,52656,54090
+May,35,Male,White,AR,Lonoke County Sheriff's Office and Arkansas Department of Community Correction,Gunshot,Knife,22158,47051,52582
+March,42,Male,Black,TX,Arlington Police Department,Death in custody,No,14765,25625,56853
+February,37,Male,White,FL,Port St Joe Police Department,Gunshot,No,20769,38176,40455
+January,56,Male,Hispanic/Latino,TX,Levelland Police Department,Gunshot,No,15511,31952,50565
+January,36,Male,Hispanic/Latino,CA,Fairfield Police Department,Gunshot,Disputed,28062,45833,67177
+April,27,Male,Hispanic/Latino,CA,California Department of Corrections and Rehabilitation,Gunshot,Firearm,15480,48561,48552
+February,30,Male,White,WI,Green Bay Police Department,Gunshot,Firearm,23633,33835,53119
+January,31,Male,White,IL,Rosemont Police Department,Gunshot,Firearm,27172,46048,54548
+February,46,Male,White,FL,Orange County Sheriff's Office,Gunshot,Firearm,17213,30069,47581
+April,51,Male,White,OK,Choctaw County Sheriff's Office and Hugo Police Department,Gunshot,Firearm,19316,32661,30201
+May,72,Male,,GA,Gwinnett County Sheriff's Department,Gunshot,Firearm,24332,60631,60445
+April,28,Male,White,CA,Highland Police Department,Death in custody,Knife,22628,50645,54090
+March,63,Male,White,AZ,Glendale Police Department,Gunshot,Firearm,30661,55133,53596
+April,28,Male,White,CA,Sunnyvale Police Department,Gunshot,Firearm,30908,80962,91702
+April,33,Male,Hispanic/Latino,AZ,Mesa Police Department,Gunshot,Knife,22995,52661,53596
+January,24,Male,Hispanic/Latino,TX,Lynn County Sheriff's Office,Gunshot,Knife,22734,36912,44375
+April,27,Male,White,IL,"Marion Police Department, Illinois State Police and Williamson County Sheriff's Department",Gunshot,Firearm,19474,32313,43125
+March,24,Male,Native American,AZ,Navajo Police Department,Gunshot,Firearm,13130,24637,31476
+March,28,Male,White,MN,St Paul Police Department,Gunshot,Firearm,23280,47525,54247
+May,28,Male,White,FL,St Johns County Sheriff's Office,Gunshot,Firearm,40021,90191,64876
+April,17,Male,Black,IL,Zion Police Department,Gunshot,Firearm,21955,47723,77469
+April,46,Female,White,CA,Sonoma County Sheriff's Office,Gunshot,Vehicle,33918,68926,63356
+April,52,Male,Black,NY,New York Department of Corrections and Community Supervision,Death in custody,Firearm,19136,58859,48089
+January,39,Male,Black,CO,Aurora Police Department,Gunshot,Vehicle,25279,48169,60651
+March,49,Female,White,AZ,Glendale Police Department,Gunshot,Non-lethal firearm,23974,34219,53596
+May,30,Male,Black,TX,Fort Worth Police Department,Gunshot,No,29893,63646,56853
+April,51,Male,White,AZ,Phoenix Police Department,Gunshot,No,23250,55233,53596
+March,16,Male,Black,FL,Jacksonville Sheriff's Office,Gunshot,Firearm,14754,23880,48323
+January,18,Male,White,OK,Oklahoma State Police,Gunshot,Non-lethal firearm,16463,41901,53591
+January,22,Male,Hispanic/Latino,AZ,Chandler Police Department,Gunshot,No,32211,53346,53596
+May,40,Male,Black,GA,Carrolton Police Department,Gunshot,Firearm,25418,43517,46147
+February,61,Male,White,ME,Maine State Troopers and Aroostook County Sheriff's Department,Gunshot,Knife,18760,40288,37855
+May,52,Male,White,DE,Smyrna Police Department,Gunshot,Firearm,34176,66998,55149
+February,51,Male,White,IN,Indianapolis Metropolitan Police Department,Gunshot,Firearm,25226,43110,42334
+May,36,Male,Black,NJ,Lyndhurst Police Department,Gunshot,Firearm,36305,67109,83794
+May,36,Male,White,UT,Roosevelt Police Department,Gunshot,No,31491,60957,57683
+April,59,Male,White,SC,Lexington County Sheriff's Office,Gunshot,No,41145,82104,54061
+January,17,Female,White,TX,Longview Police Department,Gunshot,Firearm,14332,26458,45525
+May,18,Male,White,MI,Trenton Police Department,Gunshot,No,26583,60795,41184
+February,41,Male,White,TX,Nocona Police Department,Gunshot,Other,23750,45500,44231
+January,33,Male,Native American,AK,Anchorage Corrections Department,Death in custody,Knife,20075,41268,77454
+February,25,Male,Black,FL,Miami Gardens Police Department,Gunshot,Firearm,26067,52453,43100
+February,23,Male,Black,MO,St Louis Metropolitan Police Department,Gunshot,No,17693,33095,34582
+January,47,Male,Black,PA,"US Marshals Service, Pennsylvania State Police, Allegheny County Sheriff's Office",Gunshot,Firearm,18978,32625,51366
+March,58,Male,White,NC,"North Carolina Alcohol Law Enforcement, Transylvania County Sheriff's Office, Homeland Security",Gunshot,Firearm,19645,36583,41781
+January,47,Male,White,OR,Washington County Sheriff's Office,Gunshot,No,29959,56020,64180
+May,34,Male,Black,MD,Prince George's County Sheriff's Office,Gunshot,Firearm,35089,84028,73623
+January,28,Male,White,MT,Yellowstone County Sheriff's Office,Gunshot,Firearm,28125,68949,51342
+May,37,Male,Black,WA,Spokane Police Department,Death in custody,No,17901,32143,49233
+January,87,Male,White,NY,New York State Troopers,Struck by vehicle,Firearm,27077,52165,49655
+April,39,Male,Asian/Pacific Islander,CO,Boulder County Sheriff's Office,Gunshot,Firearm,54036,111464,67956
+April,27,Male,Hispanic/Latino,CA,California Department of Fish and Wildlife,Gunshot,Knife,28730,60833,55064
+April,35,Male,Hispanic/Latino,CA,Los Angeles Police Department,Gunshot,Firearm,12376,23075,55909
+April,36,Male,Black,IN,Indianapolis Metropolitan Police Department,Gunshot,Vehicle,20072,25677,42334
+January,24,Male,Black,MN,St Paul Police Department,Gunshot,Vehicle,11425,18156,54247
+May,26,Male,Black,NE,Omaha Police Department,Gunshot,No,22537,38359,53325
+January,34,Male,Black,VA,Chesapeake City Police Department,Gunshot,Firearm,26119,50664,69743
+April,51,Male,White,MO,Columbia Police Department and University of Missouri Police,Gunshot,Other,5457,10931,48627
+April,49,Male,White,OR,Salem Police Department,Gunshot,Firearm,17474,31863,46885
+May,41,Male,White,IL,Rockford Police Department,Gunshot,Firearm,15542,26032,47072
+April,54,Male,White,OK,Creek County Sheriff's Department and Bristow Police Department,Gunshot,No,24858,45615,43026
+February,36,Male,Black,TN,Shelby County Sheriff's Department [US Marshals Service Task Force],Gunshot,Firearm,19029,32162,46250
+May,26,Male,Black,FL,Broward Sheriff's Office,,Firearm,13143,22712,51251
+January,35,Male,Asian/Pacific Islander,CA,Stockton Police Department,Gunshot,Firearm,17026,41385,53380
+January,22,Male,Black,GA,Chatham County Sheriff's Office,Death in custody,Other,25190,33545,45794
+February,27,Male,White,TN,Carroll County Sheriff's Office,Gunshot,Other,19400,32522,35049
+May,42,Male,White,CA,Sacramento Police Department,Gunshot,Firearm,30332,48188,55064
+January,32,Male,White,CA,San Francisco Police Department,Gunshot,Other,64657,115750,75604
+February,32,Male,White,MI,Eaton County Sheriff's Office,Gunshot,Other,33875,71417,54115
+March,25,Male,White,AZ,Tempe Police Department,Gunshot,Firearm,25839,44097,53596
+March,26,Female,Black,CA,Oxnard Police Department,Gunshot,No,29511,65552,76544
+May,53,Male,White,KY,Kentucky State Police,Gunshot,No,21506,36782,33528
+February,26,Male,White,ID,Boise Police Department,Gunshot,Knife,20296,33611,55210
+April,40,Male,White,KY,Wilmore Police Department,Gunshot,Non-lethal firearm,17696,50265,49024
+May,55,Male,White,NC,Enfield Police Department,Taser,Firearm,13939,29256,32329
+January,29,Male,White,MO,St Louis County Police Department,Gunshot,No,27917,55279,48857
+February,31,Male,White,MO,Springfield Police Department,Gunshot,No,13929,26613,40337
+January,19,Male,White,HI,Kauai Police Department,Struck by vehicle,Knife,30533,72000,62052
+April,57,Male,,CA,Kern County Sheriff's Office,Taser,Firearm,18472,30119,48552
+May,40,Male,White,PA,Pennsylvania State Police,Gunshot,Knife,20297,42346,43597
+March,35,Male,White,DE,Delaware State Police,Gunshot,Firearm,30723,36519,64537
+May,35,Male,White,NY,Beacon Police Department,Gunshot,Firearm,23011,49318,72525
+January,39,Male,Hispanic/Latino,CO,Evans Police Department,Gunshot,Firearm,18022,27500,57180
+February,37,Male,White,GA,Cobb County Sheriff's Office,Gunshot,No,49269,96625,63920
+January,36,Male,Hispanic/Latino,TX,US Border Patrol,Gunshot,Firearm,14457,26346,24927
+May,62,Male,White,WA,Snohomish County Sheriff's Office,Gunshot,Knife,11405,41000,68381
+March,43,Female,Black,CA,Anaheim Police Department,Gunshot,Firearm,21008,45353,75422
+March,32,Male,White,WA,Clark County Sheriff's Department,Death in custody,Knife,15892,28281,58225
+May,34,Male,Asian/Pacific Islander,TX,Garland Police Department,Gunshot,Vehicle,31009,49973,49481
+March,37,Male,Black,CO,Aurora Police Department,Gunshot,No,21082,38293,60651
+February,37,Female,Black,VA,Fairfax County Sheriff's Office,Taser,No,5688,138750,110292
+January,33,Male,White,LA,Evangeline Parish Sheriff's Office,Gunshot,Knife,21831,43056,31832
+May,35,Male,White,OK,Oklahoma Highway Patrol,Gunshot,No,25231,44573,39156
+March,40,Male,White,MA,Webster Police Department,Gunshot,No,21131,35507,65223
+May,21,Male,Black,CA,Los Angeles County Sheriff's Department,Gunshot,Firearm,42774,101818,55909
+January,30,Male,White,IA,Des Moines Police Department,Gunshot,Firearm,16071,29375,59018
+March,23,Male,Black,GA,Smyrna Police Department,Gunshot,Knife,45795,53891,63920
+January,26,Male,Native American,AZ,Phoenix Police Department,Gunshot,No,16012,17699,53596
+May,39,Female,White,WY,Campbell County Sheriff's Office,Gunshot,Firearm,42519,76732,79488
+April,33,Male,Black,TX,San Antonio Police Department,Taser,Vehicle,40693,71272,50112
+May,34,Female,Black,NJ,New Jersey State Police,Struck by vehicle,Firearm,37476,93091,83794
+January,37,Male,Black,LA,New Orleans Police Department,Gunshot,Firearm,9353,15293,37146
+January,26,Male,Hispanic/Latino,CO,Pueblo Police Department,Gunshot,Firearm,22057,34987,41777
+January,24,Male,Hispanic/Latino,CA,Los Angeles Police Department,Gunshot,No,39531,67542,55909
+January,25,Male,White,CA,Stockton Police Department,Gunshot,Other,15628,44228,53380
+April,31,Male,Black,CA,Anaheim Police Department,Gunshot,Knife,25755,51901,75422
+January,49,Male,White,MA,Weymouth Police Department,Gunshot,Firearm,36062,66036,84916
+February,59,Male,White,CA,Corona Police Department,Gunshot,No,37453,97955,54090
+February,50,Male,Hispanic/Latino,TX,Del Rio Police Department and Val Verde County Sheriff's Office,Gunshot,No,17402,42026,40450
+March,37,Male,White,CA,Vallejo Police Department,Gunshot,Firearm,34516,91573,67177
+April,28,Male,White,SC,Spartanburg County Sheriff's Office,Gunshot,Other,23844,54784,42919
+January,26,Male,Hispanic/Latino,TX,Houston Police Department,Gunshot,Firearm,40387,53244,53137
+February,23,Male,Black,CA,San Jose Police Department,Gunshot,Firearm,22132,39892,91702
+March,32,Male,Black,NJ,Vineland Police Department,Death in custody,Firearm,17401,40075,50750
+January,24,Male,White,MN,Bloomington Police Department,Gunshot,Knife,43458,82702,64403
+January,42,Male,White,OK,Stillwater Police Department,Gunshot,Firearm,14964,32054,36812
+May,34,Male,White,KS,Kansas City KS Police Department,Taser,Firearm,15556,24929,39402
+January,68,Male,White,MN,Minneapolis Police Department,Gunshot,Other,28690,46519,64403
+April,31,Male,Black,TX,Fort Worth Police Department,Gunshot,Firearm,18174,33750,56853
+April,83,Male,White,OK,Oklahoma City Police Department,Gunshot,No,25034,56875,54989
+February,35,Male,White,PA,Pennsylvania State Police,Gunshot,Firearm,20761,29707,55170
+March,29,Male,Hispanic/Latino,TX,San Antonio Police Department,Gunshot,Firearm,26047,45208,50112
+May,50,Male,Black,NY,Rochester Police Department,Taser,Firearm,11558,18833,52394
+April,56,Male,,CA,Tehachapi Police Department,Gunshot,Firearm,26741,56698,48552
+January,43,Male,White,TX,Jourdanton Police Department,Gunshot,Firearm,26101,48735,47543
+April,38,Male,White,KS,Topeka Police Department,Gunshot,Firearm,28781,38608,48451
+March,63,Male,Black,LA,Jefferson Parish Sheriff's Office,Gunshot,Disputed,,,48261
+March,27,Male,Black,MD,NSA Police Department,Gunshot,Firearm,20995,79844,87430
+May,36,Male,White,WA,Kennewick Police Department/Tri-City Swat Team,Gunshot,Firearm,22348,42759,60485
+May,55,Male,White,OR,Oregon State Police,Gunshot,Knife,23281,48077,37733
+March,36,Male,White,CA,Bakersfield Police Department (Swat),Gunshot,Firearm,21115,55093,48552
+January,68,Male,White,TX,Lake Jackson Police Department,Gunshot,No,27875,54329,67603
+January,61,Male,White,TX,Austin Police Department,Gunshot,No,31969,59435,58025
+May,46,Male,White,VA,Pulaski Police Department,Gunshot,No,20153,31898,44312
+February,47,Male,White,LA,Denham Springs Police Department,Gunshot,Firearm,30540,70469,56811
+March,26,Male,White,OH,Pike County Sheriff's Department,Gunshot,Vehicle,18133,46007,42165
+April,37,Male,Black,CA,Hawthorne Police Department,Gunshot,No,32242,83258,55909
+March,22,Male,Hispanic/Latino,CA,California Highway Patrol,Gunshot,Knife,30472,56458,55064
+January,18,Male,Hispanic/Latino,FL,Monroe County Sheriff's Office,,Knife,25977,54219,53607
+April,39,Male,Hispanic/Latino,CA,Los Angeles Police Department,Gunshot,No,14162,25792,55909
+February,49,Male,White,MS,Gulfport Police Department,Gunshot,Other,12930,19031,43124
+January,23,Male,Black,OK,Department of Veteran Affairs,Gunshot,Firearm,16953,34432,48181
+April,47,Male,Hispanic/Latino,CA,Shafter Police Department,Gunshot,Firearm,21130,49076,48552
+January,32,Male,Black,TX,Freeport Police Department,Gunshot,Knife,24236,48635,67603
+May,45,Male,Black,IL,Harvey Police Department,Gunshot,No,19151,33028,54548
+February,51,Male,White,TX,Laredo Police Department,Gunshot,Knife,20900,42782,39449
+February,31,Male,Hispanic/Latino,TX,Grapevine Police Department,Gunshot,Vehicle,43062,79821,56853
+February,54,Male,White,WA,Franklin County Corrections Division,Death in custody,Firearm,16558,28537,55177
+March,31,Male,White,AZ,Kingman Police Department,Gunshot,Firearm,21374,42484,39200
+March,23,Male,Hispanic/Latino,CA,Los Angeles Police Department,Gunshot,Knife,15632,26970,55909
+January,29,Male,Hispanic/Latino,NV,North Las Vegas Police Department,Gunshot,No,19746,41875,52873
+February,28,Male,Hispanic/Latino,AZ,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",Gunshot,Firearm,23243,35524,53596
+May,31,Male,Black,MN,Lino Lakes Police Department,Gunshot,No,23143,47174,70380
+April,24,Male,Hispanic/Latino,TX,Hidalgo County Sheriff's Office,Gunshot,Firearm,15812,32071,34146
+February,27,Male,White,TX,Austin Police Department,Gunshot,No,44430,84743,58025
+March,57,Male,White,CA,San Jose Police Department,Gunshot,Firearm,17467,41767,91702
+May,39,Male,,NJ,Monmouth County Emergency Response Team,Gunshot,Non-lethal firearm,34053,77813,84526
+May,38,Male,White,MI,"Michigan State Police, Kalamazoo County Sheriff's Office and Portage Police Department",Gunshot,Firearm,33110,74347,45775
+March,34,Male,Hispanic/Latino,CA,Los Angeles Police Department,Gunshot,Firearm,44585,83325,55909
+March,39,Male,White,AL,Lawrence County Sheriff's Office,Gunshot,Other,19149,38078,38551
+March,20,Male,Black,IL,Joliet Police Department,Gunshot,Firearm,16065,25093,76147
+May,35,Male,White,AZ,Pinal County Sheriff's Office,Gunshot,No,24352,49097,50027
+April,36,Male,White,NJ,Hamilton Police Department,Gunshot,Firearm,29056,51355,73480
+March,38,Male,Asian/Pacific Islander,HI,Honolulu Police Department,Taser,No,21509,25323,72764
+May,33,Male,White,CA,San Diego County Sheriff's Department,Gunshot,Firearm,20164,71929,62962
+January,57,Male,Asian/Pacific Islander,MN,Brooklyn Center Police Department,Taser,Firearm,26143,38958,64403
+February,38,Male,Black,AL,Homewood Police Department,Gunshot,Firearm,21908,35780,45429
+April,72,Male,White,CO,CaÌ_å±on City Police Department,Gunshot,Firearm,19044,41571,39943
+February,37,Female,White,AZ,Riverside County Sheriff's Department,Gunshot,No,15686,27552,45841
+May,47,Male,White,WA,Tacoma Police Department,Gunshot,Knife,21658,36642,59204
+April,43,Male,White,MS,Lauderdale County Sheriff's Office,Taser,No,20685,44247,36203
+March,37,Male,White,WI,Wisconsin State Police,Gunshot,Firearm,20423,34339,53820
+January,75,Male,White,NJ,Old Bridge Police Department,Gunshot,Knife,29741,75050,79596
+January,21,Male,Black,OK,Muskogee Police Department,Gunshot,Firearm,15252,17025,38502
+April,20,Male,Black,MI,Immigration and Customs Enforcement,Gunshot,Firearm,12961,21468,41184
+March,29,Male,Black,OH,Mansfield Police Department,Taser,Firearm,11576,19732,41835
+March,37,Male,Black,MD,Cecil County Sheriff's Office,Gunshot,Knife,31524,53941,66689
+February,41,Male,Black,OK,Osage Nation Police Department,Taser,Firearm,26566,47350,44195
+April,22,Male,Black,FL,Miami-Dade Police Department,Gunshot,Knife,16745,26082,43100
+April,23,Male,Black,MO,St Louis County Police Department,Gunshot,Knife,18371,27409,58910
+March,64,Male,Black,OH,Cleveland Division of Police,Gunshot,No,15871,21378,43804
+March,34,Male,Black,MO,Wellston Police Department,Gunshot,Firearm,11656,20844,58910
+January,49,Male,White,UT,"Syracuse Police Department, Davis County Sheriff's Office",Gunshot,Firearm,36216,81064,69707
+May,32,Male,Asian/Pacific Islander,CA,Los Angeles County Sheriff's Department,Gunshot,Knife,17367,57500,55909
+January,25,Male,Black,TX,US Border Patrol,Gunshot,Other,14989,22545,22545
+January,39,Female,White,NE,Omaha Police Department,Gunshot,Firearm,36394,66786,53325
+January,53,Male,,WA,Mason County Sheriff's Office,Gunshot,Non-lethal firearm,18999,39495,48755
+May,27,Male,White,NM,Ruidoso Police Department,Gunshot,Firearm,26934,48198,43014
+January,36,Male,White,CA,Riverside County Sheriff's Department,Gunshot,Firearm,17632,32708,56529
+April,20,Male,Black,CO,Trinidad Police Department,Gunshot,Firearm,15498,25688,42261
+January,39,Male,White,IL,Tuscola Police Department,Gunshot,Firearm,27719,51518,52741
+March,19,Male,Black,WI,Madison Police Department,Gunshot,Firearm,35028,53089,61721
+March,34,Male,White,TX,Sulphur Springs Police Department,Taser,Knife,19921,42282,43657
+March,36,Male,White,MS,Pike County Sheriff's Office,Gunshot,Firearm,22213,46740,34841
+March,34,Male,White,OK,Oklahoma Highway Patrol and Tupelo Police Department,Gunshot,Firearm,25110,40000,34867
+April,31,Male,White,ID,Jefferson County Sheriff Department,Gunshot,No,27347,57256,52023
+March,45,Male,Black,WI,Milwaukee Police Department,Gunshot,Non-lethal firearm,35316,63444,43193
+March,34,Male,White,NE,US Marshals Service,Gunshot,,26597,40404,51574
+January,,Male,,TX,Texas Rangers/ ATF,Gunshot,Other,22969,50280,43439
+May,,Female,,TX,Austin Police Department,Gunshot,Knife,22969,50280,43439
+June,,Male,White,NY,"New York State Police, Monroe County Sheriff's Department and Gates Police Department",Gunshot,Firearm,22969,50280,43439
+January,31,Male,Hispanic/Latino,TX,Houston County Sheriff's Department,Gunshot,No,29695,41265,53137
+March,28,Male,Hispanic/Latino,CA,Los Angeles County Sheriff's Department,Gunshot,Firearm,16940,26250,55909
+February,57,Male,White,NY,Clarkstown Police Department,Gunshot,Firearm,52896,142500,84951
+March,29,Male,Black,VA,Portsmouth Police Department,Gunshot,Other,27535,51480,46166
+April,50,Male,Black,SC,North Charleston Police Department,Gunshot,Knife,14963,19988,50792
+January,40,Male,White,TX,Fort Worth Police Department,Gunshot,,54494,102938,56853
+February,35,Male,Hispanic/Latino,TX,Wichita County Sheriff's Office,Taser,,31761,62817,45086
+March,53,Male,White,AL,Hoover Police Department,Gunshot,No,42312,81996,45429
+January,59,Male,,NJ,Winslow Police Department,Gunshot,Non-lethal firearm,31470,65759,61683
+April,18,Male,Black,VA,Portsmouth Police Department,Gunshot,No,25262,27418,46166
+April,28,Male,Native American,WA,US Forest Service ,Taser,Firearm,18470,35608,40368
+March,52,Male,White,NC,Gaston County Police Department,Gunshot,Firearm,21175,38200,42017
+February,38,Female,Black,CA,Emeryville Police Department,Gunshot,Firearm,26971,63052,72112
+January,48,Male,,CA,Fremont Police Department,Gunshot,Firearm,33590,88940,72112
